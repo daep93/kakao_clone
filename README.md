@@ -1,3 +1,3 @@
-# kakao_clone
+# Kakao Clone 2020 update
 
-Kakao Desktop App Cloning
+Css got so much better
